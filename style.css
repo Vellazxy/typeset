@@ -1,0 +1,53 @@
+body{
+	margin-left:20vw;
+	margin-right: 20vw;
+	margin-top: 10vw;
+	margin-bottom: 10vw;
+	font-family: Calibre;
+	font-size: 1.5em;
+	font-weight: lighter;
+}
+
+@font-face{
+	font-family: Calibre;
+	src:url(Calibre-Regular.otf);
+	font-weight: lighter;
+}
+
+@font-face{
+	font-family: Calibre;
+	src:url(Calibre-Black.otf);
+	font-weight:bold;
+}
+
+@font-face{
+	font-family: Calibre;
+	src:url(Calibre-LightItalic.otf);
+	font-style: italic;
+}
+
+@font-face{
+	font-family: Calibre-1;
+	src:url(Calibre-Medium.otf);
+}
+
+h1{
+	font-family: Calibre;
+	font-size:2.5em;
+	text-align: center;
+}
+
+p{
+	font-family: Calibre;
+	font-style: italic;
+}
+
+p1{
+	font-family: Calibre;
+	font-size:1.2em;
+}
+
+.quote{
+	font-family: Calibre-1;
+}
+
